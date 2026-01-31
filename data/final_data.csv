@@ -1,0 +1,116 @@
+town,date_published,injuries,fatalities_mentioned,fatalities_count,accident_types,day,time,age,hourly_precipitation,hourly_rain,hourly_showers,daily_rain_sum,hourly_visibility,daily_weather_code,vehicles,severity_score,hourly_visibility_km,injuries_list,hour,month,month_name,month_num,vehicles_list
+Iż-Żurrieq,2025-10-09,[],False,,"['Collision', 'Accident']",Thursday,09:30,67,0.0,0.0,0.0,0.0,52960.0,3.0,"['Motorcycle', 'Car']",0,52.96,[],9,2025-10-01,Oct,10,"['Motorcycle', 'Car']"
+Il-Gudja,2025-06-20,['Grievous'],False,,"['Collision', 'Accident']",Friday,18:30,64,0.0,0.0,0.0,0.0,33800.0,80.0,"['Motorcycle', 'Car']",3,33.8,['Grievous'],18,2025-06-01,Jun,6,"['Motorcycle', 'Car']"
+Ħal Qormi,2025-05-12,['Grievous'],False,,"['Collision', 'Accident']",Monday,08:00,34,0.0,0.0,0.0,0.0,20300.0,3.0,"['Motorcycle', 'Car']",3,20.3,['Grievous'],8,2025-05-01,May,5,"['Motorcycle', 'Car']"
+Ħal Ghaxaq,2025-07-30,['Grievous'],False,,"['Collision', 'Accident']",Wednesday,18:00,42,0.0,0.0,0.0,0.0,25440.0,2.0,"['Motorcycle', 'Car']",3,25.44,['Grievous'],18,2025-07-01,Jul,7,"['Motorcycle', 'Car']"
+Ir-Rabat,2025-04-07,['Grievous'],False,,"['Collision', 'Accident']",Monday,20:45,25,0.0,0.0,0.0,0.0,46880.0,80.0,"['Motorcycle', 'Car']",3,46.88,['Grievous'],20,2025-04-01,Apr,4,"['Motorcycle', 'Car']"
+Il-Marsa,2025-04-16,['Grievous'],False,,"['Collision', 'Accident']",Wednesday,08:50,36,0.0,0.0,0.0,0.0,35680.0,3.0,"['Motorcycle', 'Van', 'Car']",3,35.68,['Grievous'],8,2025-04-01,Apr,4,"['Motorcycle', 'Van', 'Car']"
+Ħal Lija,2025-07-23,['Slight'],True,,"['Collision', 'Accident']",Wednesday,10:30,24,0.0,0.0,0.0,0.0,15060.0,1.0,"['Motorcycle', 'Van', 'Car']",1,15.06,['Slight'],10,2025-07-01,Jul,7,"['Motorcycle', 'Van', 'Car']"
+Iż-Żejtun,2025-08-03,"['Serious', 'Grievous']",False,,"['Collision', 'Accident']",Sunday,08:15,66,0.0,0.0,0.0,0.0,61900.0,1.0,['Motorcycle'],3,61.9,"['Serious', 'Grievous']",8,2025-08-01,Aug,8,['Motorcycle']
+In-Naxxar,2025-06-14,['Grievous'],False,,"['Collision', 'Accident']",Saturday,15:45,35,0.0,0.0,0.0,0.0,18120.0,1.0,['Motorcycle'],3,18.12,['Grievous'],15,2025-06-01,Jun,6,['Motorcycle']
+Ħaż-Żabbar,2024-12-28,"['Slight', 'Grievous']",False,,['Accident'],Saturday,09:15,79,0.0,0.0,0.0,0.0,33520.0,2.0,"['Motorcycle', 'Vehicle']",3,33.52,"['Slight', 'Grievous']",9,2024-12-01,Dec,12,"['Motorcycle', 'Vehicle']"
+In-Naxxar,2025-03-16,['Serious'],False,,['Accident'],Sunday,08:00,40,0.0,0.0,0.0,0.0,45560.0,3.0,['Motorcycle'],2,45.56,['Serious'],8,2025-03-01,Mar,3,['Motorcycle']
+Bormla,2025-04-22,['Grievous'],False,,['Accident'],Tuesday,13:00,48,0.0,0.0,0.0,0.0,8060.0,3.0,"['Pedestrian', 'Car']",3,8.06,['Grievous'],13,2025-04-01,Apr,4,"['Pedestrian', 'Car']"
+Il-Fgura,2025-05-08,['Grievous'],False,,['Accident'],Thursday,10:15,32,0.0,0.0,0.0,0.0,47080.0,3.0,"['Pedestrian', 'Car']",3,47.08,['Grievous'],10,2025-05-01,May,5,"['Pedestrian', 'Car']"
+Ix-Xewkija,2025-06-14,['Grievous'],False,,['Accident'],Saturday,22:00,64,0.0,0.0,0.0,0.0,26600.0,0.0,['Motorcycle'],3,26.6,['Grievous'],22,2025-06-01,Jun,6,['Motorcycle']
+Tal-Pieta',2025-09-21,[],False,,['Accident'],Sunday,08:30,77,0.0,0.0,0.0,0.0,47860.0,2.0,"['Pedestrian', 'Car']",0,47.86,[],8,2025-09-01,Sep,9,"['Pedestrian', 'Car']"
+Ħal Luqa,2025-04-17,['Grievous'],False,,['Accident'],Thursday,12:00,80,0.0,0.0,0.0,0.0,29360.0,3.0,"['Pedestrian', 'Car']",3,29.36,['Grievous'],12,2025-04-01,Apr,4,"['Pedestrian', 'Car']"
+Raħal Ġdid,2025-02-21,['Grievous'],False,,"['Collision', 'Accident']",Friday,07:30,80,0.0,0.0,0.0,0.0,56400.0,80.0,['Car'],3,56.4,['Grievous'],7,2025-02-01,Feb,2,['Car']
+L-Imtarfa,2024-12-22,['Grievous'],False,,['Accident'],Sunday,10:15,13,0.1000000014901161,0.0,0.1000000014901161,0.0,20500.0,3.0,"['Pedestrian', 'Car']",3,20.5,['Grievous'],10,2024-12-01,Dec,12,"['Pedestrian', 'Car']"
+Floriana,2025-02-21,['Grievous'],False,,"['Collision', 'Accident']",Friday,13:30,61,0.0,0.0,0.0,0.0,56400.0,80.0,['Motorcycle'],3,56.4,['Grievous'],13,2025-02-01,Feb,2,['Motorcycle']
+Raħal Ġdid,2025-09-14,['Serious'],False,,['Accident'],Sunday,21:00,54,0.0,0.0,0.0,0.0,20600.0,3.0,['Motorcycle'],2,20.6,['Serious'],21,2025-09-01,Sep,9,['Motorcycle']
+Il-Marsa,2025-08-30,['Grievous'],False,,"['Collision', 'Accident']",Saturday,15:15,55,0.0,0.0,0.0,0.0,45420.0,45.0,['Motorcycle'],3,45.42,['Grievous'],15,2025-08-01,Aug,8,['Motorcycle']
+Il-Gudja,2024-12-14,['Serious'],False,,"['Collision', 'Accident']",Saturday,19:45,50,0.0,0.0,0.0,0.0,33300.0,3.0,['Car'],2,33.3,['Serious'],19,2024-12-01,Dec,12,['Car']
+L-Imsida,2025-05-07,['Grievous'],False,,['Accident'],Wednesday,10:00,53,0.0,0.0,0.0,0.0,39560.0,3.0,"['Pedestrian', 'Car']",3,39.56,['Grievous'],10,2025-05-01,May,5,"['Pedestrian', 'Car']"
+Birżebbuġa,2025-05-07,['Grievous'],False,,"['Collision', 'Accident']",Wednesday,13:15,23,0.0,0.0,0.0,0.0,44160.0,3.0,['Motorcycle'],3,44.16,['Grievous'],13,2025-05-01,May,5,['Motorcycle']
+Il-Marsa,2024-12-27,['Grievous'],False,,['Accident'],Friday,07:45,36,0.0,0.0,0.0,0.0,58540.0,80.0,['Car'],3,58.54,['Grievous'],7,2024-12-01,Dec,12,['Car']
+Il-Marsa,2025-05-04,['Serious'],False,,['Accident'],Sunday,14:30,43,0.0,0.0,0.0,0.0,30020.0,3.0,['Motorcycle'],2,30.02,['Serious'],14,2025-05-01,May,5,['Motorcycle']
+L-Imtarfa,2025-01-07,[],True,,['Accident'],Tuesday,21:20,25,0.0,0.0,0.0,0.0,22160.0,3.0,['Car'],0,22.16,[],21,2025-01-01,Jan,1,['Car']
+Il-Gudja,2025-10-05,"['Slight', 'Grievous']",False,,"['Collision', 'Accident']",Sunday,23:00,49,0.0,0.0,0.0,0.0,40480.0,3.0,"['Motorcycle', 'Car', 'Vehicle']",3,40.48,"['Slight', 'Grievous']",23,2025-10-01,Oct,10,"['Motorcycle', 'Car', 'Vehicle']"
+Il-Marsa,2025-06-04,['Grievous'],False,,"['Collision', 'Accident']",Wednesday,07:30,39,0.0,0.0,0.0,0.0,29300.0,0.0,"['Motorcycle', 'Car']",3,29.3,['Grievous'],7,2025-06-01,Jun,6,"['Motorcycle', 'Car']"
+Ħaż-Żabbar,2025-09-17,['Serious'],False,,['Accident'],Wednesday,23:30,52,0.0,0.0,0.0,0.0,9220.0,2.0,"['Pedestrian', 'Car']",2,9.22,['Serious'],23,2025-09-01,Sep,9,"['Pedestrian', 'Car']"
+San Pawl Il-Baħar,2025-04-18,['Grievous'],False,,"['Collision', 'Accident']",Friday,13:30,31,0.0,0.0,0.0,0.0,42260.0,3.0,"['Motorcycle', 'Car']",3,42.26,['Grievous'],13,2025-04-01,Apr,4,"['Motorcycle', 'Car']"
+Il-Mosta,2025-07-07,[],False,,"['Collision', 'Accident']",Monday,18:00,34,0.0,0.0,0.0,0.0,48620.0,2.0,"['Motorcycle', 'Car']",0,48.62,[],18,2025-07-01,Jul,7,"['Motorcycle', 'Car']"
+Iż-Żejtun,2025-04-17,['Grievous'],False,,"['Collision', 'Accident']",Thursday,09:30,46,0.0,0.0,0.0,0.0,29360.0,3.0,"['Motorcycle', 'Car']",3,29.36,['Grievous'],9,2025-04-01,Apr,4,"['Motorcycle', 'Car']"
+Santa Venera,2025-05-15,['Grievous'],False,,"['Collision', 'Accident']",Thursday,17:45,22,0.0,0.0,0.0,6.600000381469727,21720.0,95.0,"['Motorcycle', 'Car']",3,21.72,['Grievous'],17,2025-05-01,May,5,"['Motorcycle', 'Car']"
+Ħaż-Żebbuġ,2025-06-22,['Grievous'],True,,"['Collision', 'Accident']",Sunday,22:00,57,0.0,0.0,0.0,0.0,46160.0,2.0,"['Motorcycle', 'Car']",3,46.16,['Grievous'],22,2025-06-01,Jun,6,"['Motorcycle', 'Car']"
+San Pawl Il-Baħar,2025-09-16,['Grievous'],False,,['Accident'],Tuesday,19:30,44,0.0,0.0,0.0,0.0,21220.0,45.0,['Motorcycle'],3,21.22,['Grievous'],19,2025-09-01,Sep,9,['Motorcycle']
+In-Naxxar,2025-04-01,['Grievous'],False,,['Accident'],Tuesday,09:00,87,0.0,0.0,0.0,0.0,47180.0,80.0,"['Pedestrian', 'Car']",3,47.18,['Grievous'],9,2025-04-01,Apr,4,"['Pedestrian', 'Car']"
+Raħal Ġdid,2025-08-19,['Grievous'],False,,['Accident'],Tuesday,16:00,75,0.0,0.0,0.0,0.0,11440.0,45.0,"['Pedestrian', 'Car']",3,11.44,['Grievous'],16,2025-08-01,Aug,8,"['Pedestrian', 'Car']"
+Ħaż-Żebbuġ,2025-09-24,['Grievous'],False,,['Accident'],Wednesday,08:00,82,0.0,0.0,0.0,0.0,5000.0,80.0,['Car'],3,5.0,['Grievous'],8,2025-09-01,Sep,9,['Car']
+Birkirkara,2025-01-24,[],True,,['Accident'],Friday,20:15,36,0.0,0.0,0.0,0.0,19480.0,3.0,['Motorcycle'],0,19.48,[],20,2025-01-01,Jan,1,['Motorcycle']
+L-Iklin,2025-02-15,['Grievous'],False,,"['Collision', 'Accident']",Saturday,00:00,42,0.0,0.0,0.0,1.2999999523162842,45180.0,81.0,"['Motorcycle', 'Car']",3,45.18,['Grievous'],0,2025-02-01,Feb,2,"['Motorcycle', 'Car']"
+Il-Fgura,2025-02-20,['Grievous'],False,,"['Collision', 'Accident']",Thursday,18:00,32,0.0,0.0,0.0,0.0,25020.0,80.0,"['Motorcycle', 'Car']",3,25.02,['Grievous'],18,2025-02-01,Feb,2,"['Motorcycle', 'Car']"
+Marsaskala,2025-02-09,['Grievous'],False,,['Accident'],Sunday,09:45,75,0.0,0.0,0.0,0.0,3360.0,95.0,"['Pedestrian', 'Car']",3,3.36,['Grievous'],9,2025-02-01,Feb,2,"['Pedestrian', 'Car']"
+Raħal Ġdid,2025-07-26,[],True,,"['Collision', 'Accident']",Saturday,01:00,27,0.0,0.0,0.0,0.0,52580.0,2.0,['Motorcycle'],0,52.58,[],1,2025-07-01,Jul,7,['Motorcycle']
+Għajnsielem,2025-07-02,['Grievous'],False,,['Accident'],Wednesday,21:15,22,0.0,0.0,0.0,0.0,21020.0,2.0,['Car'],3,21.02,['Grievous'],21,2025-07-01,Jul,7,['Car']
+San Ġiljan,2024-12-23,['Serious'],False,,"['Collision', 'Accident']",Monday,10:30,37,0.0,0.0,0.0,0.6000000238418579,46180.0,80.0,"['Motorcycle', 'Van', 'Bus', 'Vehicle', 'Car']",2,46.18,['Serious'],10,2024-12-01,Dec,12,"['Motorcycle', 'Van', 'Bus', 'Vehicle', 'Car']"
+Il-Gżira,2025-02-01,[],False,,['Accident'],Saturday,05:00,34,0.0,0.0,0.0,0.0,40460.0,3.0,['Car'],0,40.46,[],5,2025-02-01,Feb,2,['Car']
+Il-Gżira,2025-02-01,['Grievous'],False,,['Collision'],Saturday,12:45,59,0.0,0.0,0.0,0.0,40460.0,3.0,"['Motorcycle', 'Car']",3,40.46,['Grievous'],12,2025-02-01,Feb,2,"['Motorcycle', 'Car']"
+Ir-Rabat,2025-02-17,['Serious'],False,,['Accident'],Monday,12:45,21,0.0,0.0,0.0,0.0,22100.0,3.0,"['Motorcycle', 'Car']",2,22.1,['Serious'],12,2025-02-01,Feb,2,"['Motorcycle', 'Car']"
+Iż-Żurrieq,2025-04-13,"['Slight', 'Grievous']",False,,"['Collision', 'Accident']",Sunday,15:15,81,0.0,0.0,0.0,0.0,34580.0,3.0,['Car'],3,34.58,"['Slight', 'Grievous']",15,2025-04-01,Apr,4,['Car']
+In-Naxxar,2025-01-16,['Grievous'],False,,"['Collision', 'Accident']",Thursday,10:15,45,0.6000000238418579,0.2000000029802322,0.4000000059604645,0.800000011920929,35460.0,80.0,['Motorcycle'],3,35.46,['Grievous'],10,2025-01-01,Jan,1,['Motorcycle']
+San Pawl Il-Baħar,2025-06-05,['Grievous'],False,,['Accident'],Thursday,21:15,21,0.0,0.0,0.0,0.0,65020.0,3.0,"['Motorcycle', 'Vehicle']",3,65.02,['Grievous'],21,2025-06-01,Jun,6,"['Motorcycle', 'Vehicle']"
+In-Naxxar,2025-10-06,['Grievous'],False,,['Accident'],Monday,09:30,84,0.0,0.0,0.0,0.0,75180.0,80.0,"['Pedestrian', 'Car']",3,75.18,['Grievous'],9,2025-10-01,Oct,10,"['Pedestrian', 'Car']"
+L-Imġarr,2025-08-11,['Grievous'],False,,['Accident'],Monday,19:00,33,0.0,0.0,0.0,0.0,30140.0,1.0,['Motorcycle'],3,30.14,['Grievous'],19,2025-08-01,Aug,8,['Motorcycle']
+In-Naxxar,2025-01-26,['Grievous'],False,,['Accident'],Sunday,14:30,46,0.0,0.0,0.0,0.0,25660.0,3.0,['Motorcycle'],3,25.66,['Grievous'],14,2025-01-01,Jan,1,['Motorcycle']
+Ħaż-Żabbar,2025-08-07,[],False,,"['Collision', 'Accident']",Thursday,11:30,48,0.0,0.0,0.0,0.0,23240.0,2.0,"['Motorcycle', 'Car']",0,23.24,[],11,2025-08-01,Aug,8,"['Motorcycle', 'Car']"
+Ħaż-Żabbar,2025-08-07,['Grievous'],False,,"['Collision', 'Accident']",Thursday,12:30,23,0.0,0.0,0.0,0.0,23240.0,2.0,"['Motorcycle', 'Car']",3,23.24,['Grievous'],12,2025-08-01,Aug,8,"['Motorcycle', 'Car']"
+Iż-Żejtun,2024-12-27,['Grievous'],False,,"['Collision', 'Accident']",Friday,12:00,62,0.0,0.0,0.0,0.0,58540.0,80.0,"['Motorcycle', 'Truck']",3,58.54,['Grievous'],12,2024-12-01,Dec,12,"['Motorcycle', 'Truck']"
+In-Naxxar,2025-08-18,['Serious'],False,,"['Collision', 'Accident']",Monday,16:00,44,0.0,0.0,0.0,0.0,10760.0,2.0,"['Motorcycle', 'Car']",2,10.76,['Serious'],16,2025-08-01,Aug,8,"['Motorcycle', 'Car']"
+Ir-Rabat,2025-09-16,[],False,,['Accident'],Tuesday,12:15,29,0.0,0.0,0.0,0.0,21560.0,2.0,"['Motorcycle', 'Pedestrian', 'Car']",0,21.56,[],12,2025-09-01,Sep,9,"['Motorcycle', 'Pedestrian', 'Car']"
+San Ġiljan,2024-12-26,['Grievous'],False,,['Accident'],Thursday,15:30,28,0.0,0.0,0.0,0.0,48820.0,3.0,['Motorcycle'],3,48.82,['Grievous'],15,2024-12-01,Dec,12,['Motorcycle']
+Ħal Qormi,2025-05-27,[],True,,['Accident'],Tuesday,12:30,35,0.0,0.0,0.0,0.0,35460.0,2.0,['Motorcycle'],0,35.46,[],12,2025-05-01,May,5,['Motorcycle']
+Ir-Rabat,2025-04-18,[],False,,"['Collision', 'Accident']",Friday,02:00,46,0.0,0.0,0.0,0.0,47240.0,3.0,['Motorcycle'],0,47.24,[],2,2025-04-01,Apr,4,['Motorcycle']
+Il-Marsa,2025-05-24,['Grievous'],False,,"['Collision', 'Accident']",Saturday,07:15,65,0.1000000014901161,0.0,0.1000000014901161,0.0,30540.0,3.0,"['Motorcycle', 'Car']",3,30.54,['Grievous'],7,2025-05-01,May,5,"['Motorcycle', 'Car']"
+Ħal Balzan,2024-12-19,['Grievous'],False,,['Accident'],Thursday,08:15,44,0.0,0.0,0.0,0.0,41760.0,3.0,"['Pedestrian', 'Car']",3,41.76,['Grievous'],8,2024-12-01,Dec,12,"['Pedestrian', 'Car']"
+San Ġwann,2025-03-28,['Grievous'],False,,['Accident'],Friday,10:45,33,0.0,0.0,0.0,0.0,42060.0,80.0,"['Bike', 'Car', 'Truck']",3,42.06,['Grievous'],10,2025-03-01,Mar,3,"['Bike', 'Car', 'Truck']"
+L-Imsida,2025-07-10,['Grievous'],False,,"['Collision', 'Accident']",Thursday,18:30,40,0.0,0.0,0.0,0.0,29500.0,2.0,"['Motorcycle', 'Car']",3,29.5,['Grievous'],18,2025-07-01,Jul,7,"['Motorcycle', 'Car']"
+Ir-Rabat,2025-09-25,['Grievous'],False,,['Accident'],Thursday,14:15,70,0.0,0.0,0.0,0.0,54100.0,3.0,"['Motorcycle', 'Pedestrian']",3,54.1,['Grievous'],14,2025-09-01,Sep,9,"['Motorcycle', 'Pedestrian']"
+Ta' Xbiex,2025-08-04,['Grievous'],False,,['Accident'],Monday,07:45,28,0.0,0.0,0.0,0.0,44220.0,2.0,"['Pedestrian', 'Car']",3,44.22,['Grievous'],7,2025-08-01,Aug,8,"['Pedestrian', 'Car']"
+In-Naxxar,2024-12-22,"['Slight', 'Serious']",False,,['Accident'],Sunday,09:30,31,0.0,0.0,0.0,0.0,35420.0,3.0,"['Motorcycle', 'Car']",2,35.42,"['Slight', 'Serious']",9,2024-12-01,Dec,12,"['Motorcycle', 'Car']"
+Il-Gżira,2025-07-23,['Grievous'],False,,['Accident'],Wednesday,09:30,74,0.0,0.0,0.0,0.0,12340.0,2.0,"['Pedestrian', 'Car']",3,12.34,['Grievous'],9,2025-07-01,Jul,7,"['Pedestrian', 'Car']"
+Ħal Tarxien,2025-07-24,"['Serious', 'Grievous']",False,,['Accident'],Thursday,04:30,40,0.0,0.0,0.0,0.0,60880.0,1.0,['Motorcycle'],3,60.88,"['Serious', 'Grievous']",4,2025-07-01,Jul,7,['Motorcycle']
+L-Imġarr,2025-05-06,['Serious'],False,,"['Collision', 'Accident']",Tuesday,15:30,54,0.0,0.0,0.0,0.0,42240.0,3.0,"['Motorcycle', 'Car']",2,42.24,['Serious'],15,2025-05-01,May,5,"['Motorcycle', 'Car']"
+Is-Siġġiewi,2025-02-16,['Grievous'],False,,['Accident'],Sunday,11:00,50,0.0,0.0,0.0,0.0,8020.0,80.0,"['Bike', 'Car']",3,8.02,['Grievous'],11,2025-02-01,Feb,2,"['Bike', 'Car']"
+Iż-Żejtun,2025-02-04,['Grievous'],False,,"['Collision', 'Accident']",Tuesday,11:30,58,0.0,0.0,0.0,0.0,34580.0,3.0,"['Motorcycle', 'Car']",3,34.58,['Grievous'],11,2025-02-01,Feb,2,"['Motorcycle', 'Car']"
+Is-Siġġiewi,2025-07-10,['Grievous'],False,,['Accident'],Thursday,06:30,78,0.0,0.0,0.0,0.0,33400.0,2.0,"['Pedestrian', 'Car']",3,33.4,['Grievous'],6,2025-07-01,Jul,7,"['Pedestrian', 'Car']"
+Il-Gżira,2025-09-05,"['Slight', 'Grievous']",False,,"['Collision', 'Accident']",Friday,18:15,24,0.0,0.0,0.0,0.0,12360.0,2.0,['Motorcycle'],3,12.36,"['Slight', 'Grievous']",18,2025-09-01,Sep,9,['Motorcycle']
+Birżebbuġa,2025-04-14,['Grievous'],False,,"['Collision', 'Accident']",Monday,17:45,41,0.0,0.0,0.0,0.0,26520.0,3.0,['Car'],3,26.52,['Grievous'],17,2025-04-01,Apr,4,['Car']
+In-Naxxar,2025-07-24,[],False,,['Accident'],Thursday,10:15,65,0.0,0.0,0.0,0.0,54920.0,0.0,['Motorcycle'],0,54.92,[],10,2025-07-01,Jul,7,['Motorcycle']
+Il-Ħamrun,2025-05-12,['Grievous'],False,,"['Collision', 'Accident']",Monday,09:45,62,0.0,0.0,0.0,0.0,20300.0,3.0,"['Motorcycle', 'Car']",3,20.3,['Grievous'],9,2025-05-01,May,5,"['Motorcycle', 'Car']"
+Raħal Ġdid,2025-02-04,['Grievous'],False,,['Accident'],Tuesday,19:00,68,0.0,0.0,0.0,0.0,34580.0,3.0,"['Pedestrian', 'Car']",3,34.58,['Grievous'],19,2025-02-01,Feb,2,"['Pedestrian', 'Car']"
+Iż-Żejtun,2025-01-15,[],False,,"['Collision', 'Accident']",Wednesday,07:45,21,0.2000000029802322,0.0,0.2000000029802322,0.0,5960.0,80.0,"['Motorcycle', 'Car']",0,5.96,[],7,2025-01-01,Jan,1,"['Motorcycle', 'Car']"
+Iż-Żejtun,2025-01-15,['Grievous'],False,,[],Wednesday,08:00,30,0.2000000029802322,0.0,0.2000000029802322,0.0,5960.0,80.0,['Motorcycle'],3,5.96,['Grievous'],8,2025-01-01,Jan,1,['Motorcycle']
+Marsaskala,2025-06-12,[],True,,"['Collision', 'Accident']",Thursday,10:00,38,0.0,0.0,0.0,0.0,35860.0,1.0,"['Motorcycle', 'Car']",0,35.86,[],10,2025-06-01,Jun,6,"['Motorcycle', 'Car']"
+L-Għarb,2025-09-20,['Grievous'],False,,"['Collision', 'Accident']",Saturday,13:30,30,0.0,0.0,0.0,0.0,52920.0,3.0,['Motorcycle'],3,52.92,['Grievous'],13,2025-09-01,Sep,9,['Motorcycle']
+In-Naxxar,2024-12-11,['Grievous'],False,,['Accident'],Wednesday,11:15,60,0.0,0.0,0.0,0.0,40140.0,3.0,"['Pedestrian', 'Car']",3,40.14,['Grievous'],11,2024-12-01,Dec,12,"['Pedestrian', 'Car']"
+Il-Fgura,2025-01-07,['Grievous'],False,,['Accident'],Tuesday,20:00,24,0.0,0.0,0.0,0.0,17060.0,3.0,['Car'],3,17.06,['Grievous'],20,2025-01-01,Jan,1,['Car']
+Il-Fgura,2025-07-27,['Grievous'],True,,"['Collision', 'Accident']",Sunday,15:30,23,0.0,0.0,0.0,0.0,40700.0,1.0,['Car'],3,40.7,['Grievous'],15,2025-07-01,Jul,7,['Car']
+L-Imsida,2025-05-26,['Serious'],False,,['Accident'],Monday,13:15,5,0.0,0.0,0.0,0.0,11360.0,1.0,"['Pedestrian', 'Vehicle', 'Car']",2,11.36,['Serious'],13,2025-05-01,May,5,"['Pedestrian', 'Vehicle', 'Car']"
+Il-Qala,2025-10-02,['Grievous'],False,,"['Collision', 'Accident']",Thursday,05:30,53,0.0,0.0,0.0,0.0,72540.0,80.0,"['Motorcycle', 'Car']",3,72.54,['Grievous'],5,2025-10-01,Oct,10,"['Motorcycle', 'Car']"
+Iż-Żurrieq,2025-01-15,['Grievous'],False,,['Accident'],Wednesday,19:30,63,0.4000000059604645,0.0,0.4000000059604645,0.0,9880.0,80.0,"['Pedestrian', 'Car']",3,9.88,['Grievous'],19,2025-01-01,Jan,1,"['Pedestrian', 'Car']"
+Il-Mellieħa,2025-02-25,[],False,,['Accident'],Tuesday,14:15,50,0.0,0.0,0.0,0.0,12120.0,3.0,['Car'],0,12.12,[],14,2025-02-01,Feb,2,['Car']
+Il-Mellieħa,2025-02-25,['Slight'],False,,[],Tuesday,23:45,23,0.0,0.0,0.0,0.0,12120.0,3.0,"['Motorcycle', 'Vehicle']",1,12.12,['Slight'],23,2025-02-01,Feb,2,"['Motorcycle', 'Vehicle']"
+Raħal Ġdid,2025-04-26,['Grievous'],False,,['Accident'],Saturday,22:00,26,0.0,0.0,0.0,0.0,13860.0,3.0,['Motorcycle'],3,13.86,['Grievous'],22,2025-04-01,Apr,4,['Motorcycle']
+Il-Mellieħa,2024-12-14,[],False,,['Accident'],Saturday,17:30,17,0.0,0.0,0.0,0.0,45800.0,3.0,"['Motorcycle', 'Pedestrian']",0,45.8,[],17,2024-12-01,Dec,12,"['Motorcycle', 'Pedestrian']"
+Marsaskala,2025-09-28,['Grievous'],False,,['Accident'],Sunday,10:00,36,0.0,0.0,0.0,0.0,51760.0,3.0,"['Motorcycle', 'Pedestrian', 'Van', 'Car']",3,51.76,['Grievous'],10,2025-09-01,Sep,9,"['Motorcycle', 'Pedestrian', 'Van', 'Car']"
+Is-Siġġiewi,2025-10-05,['Grevious'],False,,"['Collision', 'Accident']",Sunday,14:30,34,0.0,0.0,0.0,0.0,41920.0,3.0,['Car'],0,41.92,['Grevious'],14,2025-10-01,Oct,10,['Car']
+San Ġiljan,2025-10-04,['Grevious'],False,,['Accident'],Saturday,12:00,36,0.0,0.0,0.0,0.0,48860.0,3.0,"['Motorcycle', 'Car']",0,48.86,['Grevious'],12,2025-10-01,Oct,10,"['Motorcycle', 'Car']"
+Birkirkara,2025-08-22,['Serious'],False,,"['Collision', 'Accident']",Friday,05:30,57,0.0,0.0,0.0,0.0,50600.0,3.0,"['Motorcycle', 'Car']",2,50.6,['Serious'],5,2025-08-01,Aug,8,"['Motorcycle', 'Car']"
+Ħ'Attard,2025-04-06,[],False,,"['Collision', 'Accident']",Sunday,08:30,19,0.0,0.0,0.0,0.0,11160.0,3.0,"['Motorcycle', 'Car']",0,11.16,[],8,2025-04-01,Apr,4,"['Motorcycle', 'Car']"
+Ix-Xagħra,2025-05-03,"['Slight', 'Grievous']",False,,"['Collision', 'Accident']",Saturday,17:00,74,0.0,0.0,0.0,0.0,71420.0,3.0,['Car'],3,71.42,"['Slight', 'Grievous']",17,2025-05-01,May,5,['Car']
+Marsaxlokk,2025-07-14,[],False,,"['Collision', 'Accident']",Monday,11:00,30,0.0,0.0,0.0,0.0,59780.0,1.0,"['Motorcycle', 'Van', 'Car']",0,59.78,[],11,2025-07-01,Jul,7,"['Motorcycle', 'Van', 'Car']"
+Il-Fgura,2025-08-31,['Grievous'],False,,['Accident'],Sunday,07:30,87,0.0,0.0,0.0,0.0,43100.0,0.0,"['Pedestrian', 'Car']",3,43.1,['Grievous'],7,2025-08-01,Aug,8,"['Pedestrian', 'Car']"
+Ħaż-Żebbuġ,2025-02-09,['Grievous'],False,,['Accident'],Sunday,21:00,25,0.0,0.0,0.0,0.0,2940.0,95.0,"['Motorcycle', 'Van']",3,2.94,['Grievous'],21,2025-02-01,Feb,2,"['Motorcycle', 'Van']"
+San Pawl Il-Baħar,2024-12-11,[],False,,['Accident'],Wednesday,17:00,54,0.0,0.0,0.0,0.0,30400.0,3.0,['Motorcycle'],0,30.4,[],17,2024-12-01,Dec,12,['Motorcycle']
+Ħal Tarxien,2025-02-09,"['Slight', 'Grievous']",False,,"['Collision', 'Accident']",Sunday,01:30,25,0.0,0.0,0.0,0.0,3360.0,95.0,"['Car', 'Vehicle']",3,3.36,"['Slight', 'Grievous']",1,2025-02-01,Feb,2,"['Car', 'Vehicle']"
+Marsaxlokk,2025-04-13,['Grievous'],False,,['Accident'],Sunday,08:00,35,0.0,0.0,0.0,0.0,34580.0,3.0,['Car'],3,34.58,['Grievous'],8,2025-04-01,Apr,4,['Car']
+Ħaż-Żebbuġ,2025-08-27,['Grievous'],False,,"['Collision', 'Accident']",Wednesday,18:30,32,0.0,0.0,0.0,0.0,14720.0,2.0,"['Motorcycle', 'Car']",3,14.72,['Grievous'],18,2025-08-01,Aug,8,"['Motorcycle', 'Car']"
+Tas-Sliema,2025-01-23,['Grievous'],False,,"['Collision', 'Accident']",Thursday,18:00,47,0.0,0.0,0.0,0.0,29940.0,3.0,"['Motorcycle', 'Car']",3,29.94,['Grievous'],18,2025-01-01,Jan,1,"['Motorcycle', 'Car']"
+Floriana,2025-06-22,['Serious'],False,,['Accident'],Sunday,13:15,57,0.0,0.0,0.0,0.0,50320.0,2.0,"['Pedestrian', 'Car']",2,50.32,['Serious'],13,2025-06-01,Jun,6,"['Pedestrian', 'Car']"
+Ħ'Attard,2025-02-05,['Grievous'],False,,['Accident'],Wednesday,09:00,52,0.0,0.0,0.0,0.0,5660.0,3.0,['Motorcycle'],3,5.66,['Grievous'],9,2025-02-01,Feb,2,['Motorcycle']
+In-Naxxar,2024-12-19,[],False,,['Accident'],Thursday,10:45,78,0.0,0.0,0.0,0.0,43520.0,3.0,['Car'],0,43.52,[],10,2024-12-01,Dec,12,['Car']
+Ħaż-Żebbuġ,2025-03-16,"['Slight', 'Grievous']",False,,['Accident'],Sunday,08:00,68,0.0,0.0,0.0,0.0,33520.0,3.0,['Motorcycle'],3,33.52,"['Slight', 'Grievous']",8,2025-03-01,Mar,3,['Motorcycle']
+Birkirkara,2025-07-18,['Grievous'],False,,"['Collision', 'Accident']",Friday,22:15,41,0.0,0.0,0.0,0.0,15260.0,2.0,"['Scooter', 'Car']",3,15.26,['Grievous'],22,2025-07-01,Jul,7,"['Scooter', 'Car']"
+Tal-Pieta',2025-08-12,['Grievous'],False,,"['Collision', 'Accident']",Tuesday,07:00,62,0.0,0.0,0.0,0.0,20080.0,1.0,['Car'],3,20.08,['Grievous'],7,2025-08-01,Aug,8,['Car']
